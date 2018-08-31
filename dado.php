@@ -26,7 +26,7 @@
             $this->Database_Conn();
         }
     }
-    
+    x
     ?>
 <body>
 <?php
